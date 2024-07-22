@@ -1,0 +1,364 @@
+{
+  "sentences": [
+    {
+      "english": "How was your day?",
+      "korean": "오늘 하루 어땠니?",
+      "japanese": "今日はどうでしたか？",
+      "reading": "Kyou wa dou deshita ka?"
+    },
+    {
+      "english": "What’s the weather like?",
+      "korean": "날씨가 어때?",
+      "japanese": "天気はどうですか？",
+      "reading": "Tenki wa dou desu ka?"
+    },
+    {
+      "english": "What are you going to do?",
+      "korean": "무엇을 할 건데?",
+      "japanese": "何をするつもりですか？",
+      "reading": "Nani o suru tsumori desu ka?"
+    },
+    {
+      "english": "Take your time, please.",
+      "korean": "천천히 하세요.",
+      "japanese": "ゆっくりどうぞ。",
+      "reading": "Yukkuri douzo."
+    },
+    {
+      "english": "That is what I’m saying.",
+      "korean": "내 말이 그 말이야.",
+      "japanese": "私が言っているのはそれです。",
+      "reading": "Watashi ga itte iru no wa sore desu."
+    },
+    {
+      "english": "Is there a hotel in this area?",
+      "korean": "이 지역에 호텔이 있습니까?",
+      "japanese": "この地域にホテルはありますか？",
+      "reading": "Kono chiiki ni hoteru wa arimasu ka?"
+    },
+    {
+      "english": "I don’t know what to say.",
+      "korean": "무슨 말을 해야할지 모르겠어.",
+      "japanese": "何を言えばいいかわかりません。",
+      "reading": "Nani o ieba ii ka wakarimasen."
+    },
+    {
+      "english": "I’m about to leave.",
+      "korean": "막 출발하려던 참이야.",
+      "japanese": "出発しようとしています。",
+      "reading": "Shuppatsu shiyou to shiteimasu."
+    },
+    {
+      "english": "Did you clean up in here?",
+      "korean": "네가 여기 청소했어?",
+      "japanese": "ここを掃除しましたか？",
+      "reading": "Koko o souji shimashita ka?"
+    },
+    {
+      "english": "Have you heard of it?",
+      "korean": "그 이야기 들어봤어?",
+      "japanese": "それについて聞いたことがありますか？",
+      "reading": "Sore ni tsuite kiita koto ga arimasu ka?"
+    },
+    {
+      "english": "Please take me to the market.",
+      "korean": "나를 마트로 데려다 줘.",
+      "japanese": "市場に連れて行ってください。",
+      "reading": "Ichiba ni tsureteitte kudasai."
+    },
+    {
+      "english": "Why are you dressed up?",
+      "korean": "왜 옷을 잘 차려 입었어?",
+      "japanese": "なぜおしゃれをしていますか？",
+      "reading": "Naze oshare o shiteimasu ka?"
+    },
+    {
+      "english": "Who’s your favorite movie star?",
+      "korean": "네가 좋아하는 영화배우는 누구야?",
+      "japanese": "好きな映画俳優は誰ですか？",
+      "reading": "Suki na eiga haiyuu wa dare desu ka?"
+    },
+    {
+      "english": "Would you like to have some coffee?",
+      "korean": "커피 좀 드시겠어요?",
+      "japanese": "コーヒーはいかがですか？",
+      "reading": "Koohii wa ikaga desu ka?"
+    },
+    {
+      "english": "You seem to be tired.",
+      "korean": "네가 피곤한 것 같아.",
+      "japanese": "疲れているようですね。",
+      "reading": "Tsukarete iru you desu ne."
+    },
+    {
+      "english": "I’m in good shape.",
+      "korean": "난 건강해.",
+      "japanese": "私は元気です。",
+      "reading": "Watashi wa genki desu."
+    },
+    {
+      "english": "I think we need to talk about it.",
+      "korean": "내 생각에 우리 이야기를 해봐야 할 것 같아.",
+      "japanese": "それについて話す必要があると思います。",
+      "reading": "Sore ni tsuite hanasu hitsuyou ga aru to omoimasu."
+    },
+    {
+      "english": "I’d rather not do that.",
+      "korean": "그건 하지 않는 편이 좋을 것 같아.",
+      "japanese": "それはしたくないです。",
+      "reading": "Sore wa shitakunai desu."
+    },
+    {
+      "english": "Hear me out.",
+      "korean": "내 말 끝까지 들어봐.",
+      "japanese": "最後まで聞いてください。",
+      "reading": "Saigo made kiite kudasai."
+    },
+    {
+      "english": "I am free today.",
+      "korean": "난 오늘 한가해.",
+      "japanese": "今日は暇です。",
+      "reading": "Kyou wa hima desu."
+    },
+    {
+      "english": "What time is it?",
+      "korean": "지금 몇 시야?",
+      "japanese": "今、何時ですか？",
+      "reading": "Ima, nanji desu ka?"
+    },
+    {
+      "english": "Can you help me?",
+      "korean": "도와줄 수 있어?",
+      "japanese": "手伝ってくれますか？",
+      "reading": "Tetsudatte kuremasu ka?"
+    },
+    {
+      "english": "I’m hungry.",
+      "korean": "배고파.",
+      "japanese": "お腹が空きました。",
+      "reading": "Onaka ga sukimashita."
+    },
+    {
+      "english": "Let’s go for a walk.",
+      "korean": "산책하러 가자.",
+      "japanese": "散歩に行きましょう。",
+      "reading": "Sanpo ni ikimashou."
+    },
+    {
+      "english": "Do you want to join us?",
+      "korean": "우리와 함께 할래?",
+      "japanese": "私たちに参加しますか？",
+      "reading": "Watashitachi ni sanka shimasu ka?"
+    },
+    {
+      "english": "I’ll see you later.",
+      "korean": "나중에 봐.",
+      "japanese": "また後で会いましょう。",
+      "reading": "Mata ato de aimashou."
+    },
+    {
+      "english": "What do you think?",
+      "korean": "어떻게 생각해?",
+      "japanese": "どう思いますか？",
+      "reading": "Dou omoimasu ka?"
+    },
+    {
+      "english": "It’s nice to meet you.",
+      "korean": "만나서 반가워.",
+      "japanese": "お会いできて嬉しいです。",
+      "reading": "Oai dekite ureshii desu."
+    },
+    {
+      "english": "How was your weekend?",
+      "korean": "주말은 어땠어?",
+      "japanese": "週末はどうでしたか？",
+      "reading": "Shuumatsu wa dou deshita ka?"
+    },
+    {
+      "english": "What’s your favorite food?",
+      "korean": "가장 좋아하는 음식은 뭐야?",
+      "japanese": "好きな食べ物は何ですか？",
+      "reading": "Suki na tabemono wa nan desu ka?"
+    },
+    {
+      "english": "Do you have any plans for today?",
+      "korean": "오늘 계획 있어?",
+      "japanese": "今日は何か予定がありますか？",
+      "reading": "Kyou wa nanika yotei ga arimasu ka?"
+    },
+    {
+      "english": "I love this song!",
+      "korean": "이 노래 정말 좋아!",
+      "japanese": "この歌が大好きです！",
+      "reading": "Kono uta ga daisuki desu!"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "korean": "보통 몇 시에 일어나?",
+      "japanese": "普段は何時に起きますか？",
+      "reading": "Fudan wa nanji ni okimasu ka?"
+    },
+    {
+      "english": "Have you seen that movie?",
+      "korean": "그 영화 봤어?",
+      "japanese": "その映画を見ましたか？",
+      "reading": "Sono eiga o mimashita ka?"
+    },
+    {
+      "english": "Let’s grab some lunch.",
+      "korean": "점심 먹으러 가자.",
+      "japanese": "昼食を取りに行きましょう。",
+      "reading": "Chuushoku o tori ni ikimashou."
+    },
+    {
+      "english": "What’s your favorite hobby?",
+      "korean": "가장 좋아하는 취미는 뭐야?",
+      "japanese": "好きな趣味は何ですか？",
+      "reading": "Suki na shumi wa nan desu ka?"
+    },
+    {
+      "english": "I need to go grocery shopping.",
+      "korean": "장 보러 가야 해.",
+      "japanese": "食料品の買い物に行く必要があります。",
+      "reading": "Shokuryouhin no kaimono ni iku hitsuyou ga arimasu."
+    },
+    {
+      "english": "Can you recommend a good book?",
+      "korean": "좋은 책 추천해줄래?",
+      "japanese": "良い本を勧めてくれますか？",
+      "reading": "Yoi hon o susumete kuremasu ka?"
+    },
+    {
+      "english": "What did you do last night?",
+      "korean": "어젯밤에 뭐 했어?",
+      "japanese": "昨晩は何をしましたか？",
+      "reading": "Sakuban wa nani o shimashita ka?"
+    },
+    {
+      "english": "I’m looking forward to the weekend.",
+      "korean": "주말이 기대돼.",
+      "japanese": "週末が楽しみです。",
+      "reading": "Shuumatsu ga tanoshimi desu."
+    },
+    {
+      "english": "Do you want to watch a movie tonight?",
+      "korean": "오늘 밤 영화 볼래?",
+      "japanese": "今夜映画を見ませんか？",
+      "reading": "Konya eiga o mimasen ka?"
+    },
+    {
+      "english": "What’s your favorite season?",
+      "korean": "가장 좋아하는 계절은 뭐야?",
+      "japanese": "好きな季節は何ですか？",
+      "reading": "Suki na kisetsu wa nan desu ka?"
+    },
+    {
+      "english": "I enjoy cooking.",
+      "korean": "요리하는 걸 좋아해.",
+      "japanese": "料理をするのが好きです。",
+      "reading": "Ryouri o suru no ga suki desu."
+    },
+    {
+      "english": "What type of music do you like?",
+      "korean": "어떤 음악을 좋아해?",
+      "japanese": "どんな音楽が好きですか？",
+      "reading": "Donna ongaku ga suki desu ka?"
+    },
+    {
+      "english": "I’m planning to travel next month.",
+      "korean": "다음 달에 여행할 계획이야.",
+      "japanese": "来月旅行する予定です。",
+      "reading": "Raigetsu ryokou suru yotei desu."
+    },
+    {
+      "english": "Do you play any sports?",
+      "korean": "스포츠를 해?",
+      "japanese": "スポーツをしますか？",
+      "reading": "Supootsu o shimasu ka?"
+    },
+    {
+      "english": "What’s your dream job?",
+      "korean": "꿈의 직업은 뭐야?",
+      "japanese": "夢の仕事は何ですか？",
+      "reading": "Yume no shigoto wa nan desu ka?"
+    },
+    {
+      "english": "I like to go hiking.",
+      "korean": "하이킹 가는 걸 좋아해.",
+      "japanese": "ハイキングに行くのが好きです。",
+      "reading": "Haikingu ni iku no ga suki desu."
+    },
+    {
+      "english": "What’s your favorite drink?",
+      "korean": "가장 좋아하는 음료는 뭐야?",
+      "japanese": "好きな飲み物は何ですか？",
+      "reading": "Suki na nomimono wa nan desu ka?"
+    },
+    {
+      "english": "I need to finish my homework.",
+      "korean": "숙제를 끝내야 해.",
+      "japanese": "宿題を終わらせる必要があります。",
+      "reading": "Shukudai o owaraseru hitsuyou ga arimasu."
+    },
+    {
+      "english": "Can we meet tomorrow?",
+      "korean": "내일 만날 수 있을까?",
+      "japanese": "明日会えますか？",
+      "reading": "Ashita aemasu ka?"
+    },
+    {
+      "english": "I’m feeling a bit under the weather.",
+      "korean": "몸이 좀 안 좋아.",
+      "japanese": "体調が少し良くありません。",
+      "reading": "Taichou ga sukoshi yokunarimasen."
+    },
+    {
+      "english": "Have a great day!",
+      "korean": "좋은 하루 보내!",
+      "japanese": "良い一日を！",
+      "reading": "Yoi ichinichi o!"
+    },
+    {
+      "english": "Let’s catch up soon.",
+      "korean": "조만간 이야기하자.",
+      "japanese": "近いうちに会いましょう。",
+      "reading": "Chikai uchi ni aimashou."
+    },
+    {
+      "english": "I’ll call you later.",
+      "korean": "나중에 전화할게.",
+      "japanese": "後で電話します。",
+      "reading": "Ato de denwa shimasu."
+    },
+    {
+      "english": "What’s your favorite holiday?",
+      "korean": "가장 좋아하는 명절은 뭐야?",
+      "japanese": "好きな休日は何ですか？",
+      "reading": "Suki na kyujitsu wa nan desu ka?"
+    },
+    {
+      "english": "I’m trying to eat healthier.",
+      "korean": "더 건강하게 먹으려 해.",
+      "japanese": "もっと健康的に食べようとしています。",
+      "reading": "Motto kenkou-teki ni tabeyou to shiteimasu."
+    },
+    {
+      "english": "What’s your favorite place to visit?",
+      "korean": "가장 가고 싶은 장소는 어디야?",
+      "japanese": "好きな訪れる場所はどこですか？",
+      "reading": "Suki na otozureru basho wa doko desu ka?"
+    },
+    {
+      "english": "I’m learning a new language.",
+      "korean": "새로운 언어를 배우고 있어.",
+      "japanese": "新しい言語を学んでいます。",
+      "reading": "Atarashii gengo o manandeimasu."
+    },
+    {
+      "english": "What do you do for fun?",
+      "korean": "재미로 뭐 해?",
+      "japanese": "楽しむために何をしますか？",
+      "reading": "Tanoshimu tame ni nani o shimasu ka?"
+    }
+  ]
+}
