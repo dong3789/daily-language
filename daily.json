@@ -671,6 +671,306 @@
       "korean": "이것 주세요",
       "japanese": "これください",
       "reading": "고레 쿠다사이"
+    },
+    {
+      "english": "What?",
+      "korean": "뭐라고?",
+      "japanese": "何",
+      "reading": "나니"
+    },
+    {
+      "english": "Don't give up!",
+      "korean": "절대 포기하지 마!",
+      "japanese": "あきらめないで",
+      "reading": "아키라메나이데"
+    },
+    {
+      "english": "Wait a moment",
+      "korean": "잠시만요",
+      "japanese": "ちょっとまって",
+      "reading": "초또 마떼"
+    },
+    {
+      "english": "That's good (I'm relieved)",
+      "korean": "잘되었다 (다행이다)",
+      "japanese": "よかった",
+      "reading": "요카타"
+    },
+    {
+      "english": "Understood!",
+      "korean": "알겠습니다!",
+      "japanese": "りょうかい",
+      "reading": "료카이"
+    },
+    {
+      "english": "Good luck!",
+      "korean": "행운을 빕니다!",
+      "japanese": "がんばって",
+      "reading": "간바테"
+    },
+    {
+      "english": "Amazing!",
+      "korean": "대단하다!",
+      "japanese": "すごい",
+      "reading": "스고이"
+    },
+    {
+      "english": "I can't believe it!",
+      "korean": "믿을 수가 없네요!",
+      "japanese": "しんじられない",
+      "reading": "신지라렌나이"
+    },
+    {
+      "english": "Be careful!",
+      "korean": "조심하세요!",
+      "japanese": "気を付けて",
+      "reading": "키오츠케테"
+    },
+    {
+      "english": "Long time no see!",
+      "korean": "오랜만입니다!",
+      "japanese": "久しぶり",
+      "reading": "히사시부리"
+    },
+    {
+      "english": "Heart-pounding",
+      "korean": "두근두근",
+      "japanese": "ドキドキ",
+      "reading": "도키도키"
+    },
+    {
+      "english": "As usual",
+      "korean": "평소처럼",
+      "japanese": "相変わらず",
+      "reading": "아이카와라즈"
+    },
+    {
+      "english": "To give up",
+      "korean": "포기하다",
+      "japanese": "諦める",
+      "reading": "아키라메루"
+    },
+    {
+      "english": "Monster",
+      "korean": "몬스터",
+      "japanese": "化物",
+      "reading": "바케모노"
+    },
+    {
+      "english": "Not really",
+      "korean": "아무것도 아니다",
+      "japanese": "別に",
+      "reading": "벳츠 니"
+    },
+    {
+      "english": "Beautiful person",
+      "korean": "미인",
+      "japanese": "美人",
+      "reading": "비진"
+    },
+    {
+      "english": "Power",
+      "korean": "힘",
+      "japanese": "力",
+      "reading": "치카라"
+    },
+    {
+      "english": "It's okay",
+      "korean": "괜찮습니다",
+      "japanese": "大丈夫",
+      "reading": "다이조부"
+    },
+    {
+      "english": "Therefore",
+      "korean": "따라서",
+      "japanese": "だから",
+      "reading": "다카라"
+    },
+    {
+      "english": "Hey!",
+      "korean": "헤이!",
+      "japanese": "ほら",
+      "reading": "호라"
+    },
+    {
+      "english": "Really?",
+      "korean": "정말?",
+      "japanese": "本当",
+      "reading": "혼또우"
+    },
+    {
+      "english": "It hurts",
+      "korean": "아프다",
+      "japanese": "痛い",
+      "reading": "이타이"
+    },
+    {
+      "english": "Cool",
+      "korean": "멋있는",
+      "japanese": "カッコイイ",
+      "reading": "각코이"
+    },
+    {
+      "english": "Cute",
+      "korean": "귀여운",
+      "japanese": "かわいい",
+      "reading": "카와이"
+    },
+    {
+      "english": "To kill",
+      "korean": "죽이다",
+      "japanese": "殺す",
+      "reading": "코로수"
+    },
+    {
+      "english": "Seriously",
+      "korean": "진심",
+      "japanese": "まじ",
+      "reading": "마지"
+    },
+    {
+      "english": "No way",
+      "korean": "설마",
+      "japanese": "まさか",
+      "reading": "마사카"
+    },
+    {
+      "english": "Everyone",
+      "korean": "모두",
+      "japanese": "みんな",
+      "reading": "민나"
+    },
+    {
+      "english": "Of course",
+      "korean": "물론",
+      "japanese": "もちろん",
+      "reading": "모치론"
+    },
+    {
+      "english": "I see",
+      "korean": "역시, 과연",
+      "japanese": "なるほど",
+      "reading": "나루호도"
+    },
+    {
+      "english": "Interesting",
+      "korean": "흥미롭다",
+      "japanese": "面白い",
+      "reading": "오모시로이"
+    },
+    {
+      "english": "Please",
+      "korean": "제발",
+      "japanese": "お願いします",
+      "reading": "오네가이시마스"
+    },
+    {
+      "english": "Understood",
+      "korean": "알겠습니다",
+      "japanese": "了解",
+      "reading": "료카이"
+    },
+    {
+      "english": "To die",
+      "korean": "죽다",
+      "japanese": "死ぬ",
+      "reading": "시누"
+    },
+    {
+      "english": "Noisy!",
+      "korean": "시끄러워!",
+      "japanese": "うるさい",
+      "reading": "우루사이"
+    },
+    {
+      "english": "To stop",
+      "korean": "그만하다",
+      "japanese": "やめる",
+      "reading": "야메루"
+    },
+    {
+      "english": "Good grief...",
+      "korean": "이런...",
+      "japanese": "やれやれ",
+      "reading": "야레 야레"
+    },
+    {
+      "english": "I did it!",
+      "korean": "해냈다!",
+      "japanese": "やった",
+      "reading": "야따"
+    },
+    {
+      "english": "That's good",
+      "korean": "다행이다",
+      "japanese": "よかった",
+      "reading": "요캇따"
+    },
+    {
+      "english": "Too bad",
+      "korean": "유감",
+      "japanese": "残念",
+      "reading": "잔넨"
+    },
+    {
+      "english": "Absolutely",
+      "korean": "절대적으로",
+      "japanese": "絶対",
+      "reading": "제따이"
+    },
+    {
+      "english": "Idiot",
+      "korean": "멍청이",
+      "japanese": "あほ",
+      "reading": "아호"
+    },
+    {
+      "english": "That guy",
+      "korean": "그 놈",
+      "japanese": "あいつ",
+      "reading": "아이츠"
+    },
+    {
+      "english": "Fool",
+      "korean": "바보",
+      "japanese": "バカ",
+      "reading": "바카"
+    },
+    {
+      "english": "Don't mess with me",
+      "korean": "귀찮게 하지마",
+      "japanese": "ふざけん",
+      "reading": "후자켄"
+    },
+    {
+      "english": "You (rude)",
+      "korean": "너 놈",
+      "japanese": "貴様",
+      "reading": "키사마"
+    },
+    {
+      "english": "Damn it",
+      "korean": "젠장",
+      "japanese": "くそ",
+      "reading": "쿳소"
+    },
+    {
+      "english": "You (very rude)",
+      "korean": "너 이자식",
+      "japanese": "お前",
+      "reading": "오마에"
+    },
+    {
+      "english": "It's none of your business",
+      "korean": "네 알 바 아니다",
+      "japanese": "お前 かんけいない",
+      "reading": "오마에 칸케이 나이"
+    },
+    {
+      "english": "You bastard",
+      "korean": "이 자식",
+      "japanese": "手前",
+      "reading": "테메"
     }
   ]
 }
