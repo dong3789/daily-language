@@ -359,6 +359,318 @@
       "korean": "재미로 뭐 해?",
       "japanese": "楽しむために何をしますか？",
       "reading": "Tanoshimu tame ni nani o shimasu ka?"
+    },
+    {
+      "english": "Don't run away, you coward! Don't run away!!!",
+      "korean": "도망치지 마! 이 비겁자야! 도망치지 마!!",
+      "japanese": "逃げるな卑怯者!!逃げるなァ!!!",
+      "reading": "니게루나 히쿄모노!! 니게루나!!!"
+    },
+    {
+      "english": "The Demon Slayer Corps always fights in the darkness of night, which is advantageous to you!",
+      "korean": "우리 귀살대는 언제나 너희에게 유리한 한밤의 어둠 속에서 싸우고 있어",
+      "japanese": "いつだって鬼殺隊はお前らに有利な夜の闇の中で戦ってるんだ！",
+      "reading": "이츠닷테 키사츠타이와 오마에라니 유리나 요루노 야미노나카데 타타캇테룬다!!"
+    },
+    {
+      "english": "We're flesh and blood humans! Wounds don't heal easily! Lost limbs don't grow back!",
+      "korean": "살아있는 인간이 말이다! 상처도 쉽게 아물지 않는데! 잃어버린 팔다리가 돌아오는 일도 없는데!",
+      "japanese": "生身の人間がだ！きずだって簡単には塞がらない！失った手足が戻ることもない！",
+      "reading": "나마미노 닝겐가다! 키즈닷테 칸탄니와 후사가라나이! 우시낫타 테아시가 모도루 코토모나이!!"
+    },
+    {
+      "english": "Don't run away, you idiot! You coward!",
+      "korean": "도망치지마 이 멍청아! 바보야! 비겁자야!",
+      "japanese": "逃げるな馬鹿野郎！馬鹿野郎！　卑怯者！",
+      "reading": "니게루나 바카야로~! 바카야로~!! 히쿄~모노!!"
+    },
+    {
+      "english": "Rengoku-san is much more amazing than you! He's stronger!",
+      "korean": "너 같은 놈보다 렌고쿠씨가 훨씬 더 대단해! 강해!",
+      "japanese": "お前なんかより、煉獄さんの方がずっと凄いんだ！強いんだ！",
+      "reading": "오마에난카요리 렌고쿠상노호가 줏토 스고인다! 츠요인다!"
+    },
+    {
+      "english": "Rengoku-san didn't lose! He didn't let anyone die! He fought to the end! He protected everyone to the end!",
+      "korean": "렌고쿠씨는 지지않았어! 아무도 죽게 놔두지않았어! 끝까지 싸웠다고! 끝까지 지켜냈다고!",
+      "japanese": "煉獄さんは負けてない！ 誰も死なせなかった！戦い抜いた！　守り抜いた！",
+      "reading": "렌고쿠상와 마케테나이! 다레모 시나세나캇타!! 타타카이 누이타! 마모리 누이타!!"
+    },
+    {
+      "english": "You lost! Rengoku-san won!",
+      "korean": "네가 진거야!! 렌고쿠씨의 승리다!!",
+      "japanese": "お前の負けだ！煉獄さんの 勝ちだ！",
+      "reading": "오마에노 마케다!! 렌고쿠상노 카치다!!"
+    },
+    {
+      "english": "What is that brat saying, does he not have a brain in his head?",
+      "korean": "뭐라는거야 저 새끼는, 머리에 우동사리꼈냐?",
+      "japanese": "何を言ってるんだあのガキは, 脳味噌が頭に詰まってないのか？",
+      "reading": "난오 잇테룬다 아노 가키와, 노오미소가 아타마니 츠맛테나이노카?"
+    },
+    {
+      "english": "You, become my comrade!",
+      "korean": "너 내 동료가 되라",
+      "japanese": "おまえ おれの 仲間に なれ",
+      "reading": "오마에 오레노 나카마니 나레"
+    },
+    {
+      "english": "I will become the Pirate King!",
+      "korean": "나는 해적왕이 될 거야!",
+      "japanese": "俺は 海賊王に なる!",
+      "reading": "오레와 카이조쿠오-니 나루!"
+    },
+    {
+      "english": "I am the man who will become the Pirate King!",
+      "korean": "나는 해적왕이 될 사나이다!",
+      "japanese": "俺は 海賊王に なる 男だ!",
+      "reading": "오레와 카이조쿠오-니 나루 오토코다!"
+    },
+    {
+      "english": "We're comrades, aren't we!!!",
+      "korean": "동료잖아!!!",
+      "japanese": "仲間だろ!!!",
+      "reading": "나카마다로!!!"
+    },
+    {
+      "english": "Nami!! You are my comrade!!!",
+      "korean": "나미!! 너는 내 동료다!!!",
+      "japanese": "なみ!! おまえわ おれの 仲間だ!!!",
+      "reading": "나미!! 오마에와 오레노 나카마다!!!"
+    },
+    {
+      "english": "Slow",
+      "korean": "느려",
+      "japanese": "遅い",
+      "reading": "오소이"
+    },
+    {
+      "english": "Demon Slayer",
+      "korean": "귀신베기",
+      "japanese": "鬼切り",
+      "reading": "오니기리"
+    },
+    {
+      "english": "A scar on the back is a swordsman's shame.",
+      "korean": "등짝의 상처는 검사의 수치다",
+      "japanese": "背中の 傷は 剣士の 恥だ。",
+      "reading": "세나카노 키즈와 켄시노 하지다"
+    },
+    {
+      "english": "Nothing happened.",
+      "korean": "아무 일도 없었다.",
+      "japanese": "何も なかった。",
+      "reading": "나니모 나캇타."
+    },
+    {
+      "english": "I will become the world's greatest swordsman.",
+      "korean": "난 세계 제일의 검호가 될거야",
+      "japanese": "俺は 世界 一の 剣豪に なるんだ",
+      "reading": "오레와 세카이 이치노 켄고우니 나룬다"
+    },
+    {
+      "english": "Sorry, but I've never prayed to God.",
+      "korean": "미안하지만 난 신에게 기도한 적 없어",
+      "japanese": "悪いが 俺は 神に 祈ったことはねぇ",
+      "reading": "와루이가 오레와 카미니 이놋타 코토와 네에"
+    },
+    {
+      "english": "A man forgives a woman's lie.",
+      "korean": "여자의 거짓말은 용서하는 것이 남자다",
+      "japanese": "女の 嘘は 許すことが 男だ",
+      "reading": "온나노 우소와 유르스노나 오토코다"
+    },
+    {
+      "english": "Help",
+      "korean": "도와줘",
+      "japanese": "助けて",
+      "reading": "타스케테"
+    },
+    {
+      "english": "I came to end this war.",
+      "korean": "이 전쟁을 끝내러 왔다",
+      "japanese": "この 戦争を 終わらせに 来た",
+      "reading": "고노 센소오 오와라세니 키따"
+    },
+    {
+      "english": "People don't fear God.",
+      "korean": "사람은 신을 두려워하는게 아니야",
+      "japanese": "人は 神を 恐れるのでは ない",
+      "reading": "히토와 카미오 오소레루노데와 나이"
+    },
+    {
+      "english": "Fear itself is God.",
+      "korean": "바로 공포가 신이다",
+      "japanese": "まさに 恐怖が 神だ",
+      "reading": "마사니 쿄우후가 카미다"
+    },
+    {
+      "english": "When do you think people die?",
+      "korean": "사람이 언제 죽는다고 생각하나?",
+      "japanese": "人は 何時 死ぬと 思う",
+      "reading": "히토와 이츠시누토 오모우"
+    },
+    {
+      "english": "It's when they are forgotten.",
+      "korean": "사람들에게서 잊혀졌을 때다",
+      "japanese": "人に 忘れられた ときさ",
+      "reading": "히토니 와스레라레타 토키사"
+    },
+    {
+      "english": "Chopper, you can become the best doctor. I guarantee it!",
+      "korean": "쵸파 너는 최고의 의사가 될꺼야 그건 내가 보증하지!",
+      "japanese": "チョッパ、お前は 最高の 医者に なれるさ。俺が 保証する！",
+      "reading": "춉파, 오마에와 사이코-노 이샤니 나레루사. 오레가 호-쇼-스루!"
+    },
+    {
+      "english": "It really was a good life!!!",
+      "korean": "정말 좋은 인생이였다!!!",
+      "japanese": "まったくいい人生だった！！！",
+      "reading": "맛따쿠 이이 진세이닷따!!!"
+    },
+    {
+      "english": "Luffy, come to a high place!",
+      "korean": "루피, 높은 곳으로 와라!",
+      "japanese": "ルピー, 高い所に来なさい!",
+      "reading": "루피 타카이 토코로니 키나사이"
+    },
+    {
+      "english": "Thank you for loving me.",
+      "korean": "사랑해줘서 고마워",
+      "japanese": "愛してくれて ありがとう",
+      "reading": "아이시떼쿠레테 아리가토우"
+    },
+    {
+      "english": "Is this the final blow?",
+      "korean": "이것이 최후의 일격인가",
+      "japanese": "これが 最後の一撃か",
+      "reading": "코레가 사이고노 이치게키카"
+    },
+    {
+      "english": "I never even thought about losing.",
+      "korean": "내가 지다니 생각한 적도 없었다",
+      "japanese": "俺が 負けるなんて 考えた事も なかった",
+      "reading": "오레가 마케루난테 캉가에타코토모 나캇타"
+    },
+    {
+      "english": "Is this the strongest power in the world?",
+      "korean": "이것이 세계 최강의 힘인가",
+      "japanese": "これが世界最強の力か",
+      "reading": "코레가세카이사이쿄노치카라카"
+    },
+    {
+      "english": "Don't rush to your death, young swordsman.",
+      "korean": "죽음을 서두르지 마라 젊은 검사여",
+      "japanese": "生き急ぐな 若き力よ",
+      "reading": "이키이소구나 와카키치카라요"
+    },
+    {
+      "english": "It's still too early for you to die.",
+      "korean": "네 녀석이 죽기엔 아직 이르다",
+      "japanese": "貴様が死ぬにはまだ早い",
+      "reading": "키사마가 시누니와 마다하야이"
+    },
+    {
+      "english": "Got any complaints?",
+      "korean": "불만 있냐",
+      "japanese": "文句あるか",
+      "reading": "몽쿠아루카"
+    },
+    {
+      "english": "If you give up, that's where the game ends.",
+      "korean": "포기하면 거기서 시합 종료야",
+      "japanese": "あきらめたら、そこで 試合 終了だよ",
+      "reading": "아키라메타라 소코데 시아이 슈료다요"
+    },
+    {
+      "english": "Coach Anzai... I want to play basketball.",
+      "korean": "안선생님... 농구하고 싶어요",
+      "japanese": "安西先生…バスケが したいです",
+      "reading": "안자이센세 바스케가 시타이데스"
+    },
+    {
+      "english": "Yeah, I'm Mitsui. A man who doesn't give up easily.",
+      "korean": "그래 난 정대만. 포기를 모르는 남자지...",
+      "japanese": "おう オレは三井。あきらめの悪い男",
+      "reading": "오오 오레와 미츠이 아키라메노 와루이 오토코"
+    },
+    {
+      "english": "Show me your fighting spirit, Hisashi-kun.",
+      "korean": "투지를 보여줘 대만군",
+      "japanese": "鬪志を 見せてくれ 壽くん",
+      "reading": "토우시오 미세테 히사시군"
+    },
+    {
+      "english": "For now, become the best high school student in Japan.",
+      "korean": "우선 너는 일본 제일의 고등학생이 되어라",
+      "japanese": "とりあえず君は日本一の高校生になりなさい",
+      "reading": "토리아에즈 키미와 니혼이치노 코오코오세니 나리나사이"
+    },
+    {
+      "english": "The left hand is just for support.",
+      "korean": "왼손은 거들뿐",
+      "japanese": "左手は そえるだけ",
+      "reading": "히다리테와 소에루다케"
+    },
+    {
+      "english": "Because I'm a genius.",
+      "korean": "천재니까요",
+      "japanese": "天才ですから。",
+      "reading": "텐사이데스카라"
+    },
+    {
+      "english": "Of course, because I'm a genius.",
+      "korean": "물론, 난 천재니까",
+      "japanese": "もちろん 俺は天才だから",
+      "reading": "모찌롱, 오레와 텐사이 다카라"
+    },
+    {
+      "english": "When five people gather, there's always one trash among them.",
+      "korean": "인간이 5명이나 모이면 말이야 반드시 1명은 쓰레기가 있다",
+      "japanese": "人間 五人も 集まるとな 必ず一人クズがいる。",
+      "reading": "닌겐 고닌모 아츠마루토나 카나라즈 히토리 쿠즈가이루"
+    },
+    {
+      "english": "I never go back on my word. That's my ninja way!",
+      "korean": "한 번 한 말은 결코 굽히지 않아 그게 내 닌자의 길이야",
+      "japanese": "まっすぐ 自分の 言葉は 曲げねぇ これが 俺の 忍道だ",
+      "reading": "맛스구 지분노 코토바와 마게네에 코레가 오레노 닌도다"
+    },
+    {
+      "english": "I'll never let my comrades die.",
+      "korean": "내 동료는 절대 죽게 두지 않아",
+      "japanese": "オレの仲間は絶対殺させやしないよ。",
+      "reading": "오레노 나카마와 젯타이 코로사세야 시나이요"
+    },
+    {
+      "english": "Sorry, but I'll end this in an instant.",
+      "korean": "미안하지만 금방 끝낼게",
+      "japanese": "悪いが 一瞬で終わらせてもらうぞ。",
+      "reading": "와루이가 잇슈데 오와라세테모라우조"
+    },
+    {
+      "english": "Well, this is my role.",
+      "korean": "뭐, 이건 내 역할이야.",
+      "japanese": "ま, これはオレの役目だ。",
+      "reading": "마 코레와 오레노 야쿠메다"
+    },
+    {
+      "english": "Hidden Leaf Village Secret Finger Jutsu: One Thousand Years of Death!",
+      "korean": "나뭇잎 닌자 마을 비전의 체술 오의! 천년 죽이기!",
+      "japanese": "木の葉隠れ秘伝体術奥義！千年殺し～っ！",
+      "reading": "키노 하가쿠레히덴타이주츠오오기 센넨 코로시쯔"
+    },
+    {
+      "english": "How much is this?",
+      "korean": "이것은 얼마입니까?",
+      "japanese": "これはいくらですか",
+      "reading": "고레와 이꾸라 데스까"
+    },
+    {
+      "english": "I'll take this, please.",
+      "korean": "이것 주세요",
+      "japanese": "これください",
+      "reading": "고레 쿠다사이"
     }
   ]
 }
